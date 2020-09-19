@@ -1,4 +1,4 @@
-class Solution1 {
+class Q 3{
     public int findRepeatNumber(int[] nums) {
         Set<Integer> set=new HashSet<>();
         int res=-1;
